@@ -1,0 +1,28 @@
+.main_optin {
+  h1 {
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+  p {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+
+    input {
+      margin-bottom: 10px;
+    }
+
+    button {
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.main_contact {
+  form {
+    padding: 20px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    width: 600px;
+    max-width: calc(100% - 40px);
+  }
+
+  h2 {
+    font-size: 1.4em;
+    margin-bottom: 20px;
+  }
+}
+
+.main_contact_types {
+  h2 {
+    font-size: 1.4em;
+  }
+
+  p {
+    font-size: 0.875em;
+  }
+}
